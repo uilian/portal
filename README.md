@@ -1,6 +1,6 @@
 # Portal
 
-##Tutorial application done by following [this post][1] from José Valim (@josevalim).
+**Tutorial application done by following [this post][1] from [José Valim][2].**
 
 ## Installation
 
@@ -20,3 +20,4 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
 
 [1]: https://howistart.org/posts/elixir/1 "Portal"
+[2]: https://github.com/josevalim "Jose Valim Github"
